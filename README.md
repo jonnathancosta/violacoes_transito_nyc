@@ -6,7 +6,6 @@ Este projeto (desenvolvido em meados de 2024) realiza uma análise detalhada das
 
 - **`violacoes_transito.ipynb`**: Notebook principal contendo o código e as análises realizadas.
 - **`Parking_Violations_Issued.csv`**: Conjunto de dados com informações detalhadas sobre as violações de trânsito.
-- **`Documentacao/`**: Pasta destinada a armazenar documentação adicional.
 
 ## Análises Realizadas
 
