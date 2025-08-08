@@ -66,10 +66,3 @@ O projeto inclui diversas visualizações para facilitar a interpretação dos d
 - Gráficos de linha para análise temporal.
 - Gráficos de barras para comparações entre estados, tipos de veículos e períodos do dia.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias no projeto.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
